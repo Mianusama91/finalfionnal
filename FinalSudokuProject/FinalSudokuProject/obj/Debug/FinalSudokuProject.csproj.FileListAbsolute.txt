@@ -1,0 +1,9 @@
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\bin\Debug\FinalSudokuProject.exe.config
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\bin\Debug\FinalSudokuProject.exe
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\bin\Debug\FinalSudokuProject.pdb
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\obj\Debug\FinalSudokuProject.csprojAssemblyReference.cache
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\obj\Debug\FinalSudokuProject.Properties.Resources.resources
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\obj\Debug\FinalSudokuProject.csproj.GenerateResource.cache
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\obj\Debug\FinalSudokuProject.exe
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\obj\Debug\FinalSudokuProject.pdb
+C:\Users\4140\Desktop\FinalSudokuProject\FinalSudokuProject\obj\Debug\FinalSudokuProject.Form1.resources
